@@ -1,0 +1,112 @@
+ 
+
+[{
+      "gender": "female",
+      "name": {        "title": "Miss",
+        "first": "Jennie",
+        "last": "Nichols"
+      },      "location": {       
+         "street": {  
+             "number": 8929,
+          "name": "Valwood Pkwy"
+        },       
+         "city": "Billings",
+        "state": "Michigan",
+        "country": "United States",
+        "postcode": "63104",
+        "coordinates": {          "latitude": "-69.8246",
+          "longitude": "134.8719"
+        },        "timezone": {          "offset": "+9:30",
+          "description": "Adelaide, Darwin"
+        }
+      },
+      "email": "jennie.nichols@example.com",
+      "login": {
+        "uuid": "7a0eed16-9430-4d68-901f-c0d4c1c3bf00",
+        "username": "yellowpeacock117",
+        "password": "addison",
+        "salt": "sld1yGtd",
+        "md5": "ab54ac4c0be9480ae8fa5e9e2a5196a3",
+        "sha1": "edcf2ce613cbdea349133c52dc2f3b83168dc51b",
+        "sha256": "48df5229235ada28389b91e60a935e4f9b73eb4bdb855ef9258a1751f10bdc5d"
+      },
+      "dob": {
+        "date": "1992-03-08T15:13:16.688Z",
+        "age": 30
+      },
+      "registered": {
+        "date": "2007-07-09T05:51:59.390Z",
+        "age": 14
+      },
+      "phone": "(272) 790-0888",
+      "cell": "(489) 330-2385",
+      "id": {
+        "name": "SSN",
+        "value": "405-88-3636"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+      },
+      "nat": "US"
+    },
+
+    {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Valdemar",
+          "last": "Nielsen"
+        },
+        "location": {
+          "street": {
+            "number": 9801,
+            "name": "Toftevangen"
+          },
+          "city": "København V",
+          "state": "Sjælland",
+          "country": "Denmark",
+          "postcode": 95063,
+          "coordinates": {
+            "latitude": "-40.7941",
+            "longitude": "-61.6397"
+          },
+          "timezone": {
+            "offset": "-11:00",
+            "description": "Midway Island, Samoa"
+          }
+        },
+        "email": "valdemar.nielsen@example.com",
+        "login": {
+          "uuid": "e90fd7bf-a4e2-4140-8e8b-bb4900ae207f",
+          "username": "lazypanda758",
+          "password": "triton",
+          "salt": "Oq5lepcI",
+          "md5": "398e45ee8571cdd32fd8b90f2250a6f3",
+          "sha1": "b1bb6594f5ccbac8ca5f19fdfe211f9e9eb9035f",
+          "sha256": "23dadeccb6171e9a1a405238dae6f1b9cb696f0666a11fdc661fcd7eba93dd09"
+        },
+        "dob": {
+          "date": "1986-05-15T10:35:47.889Z",
+          "age": 38
+        },
+        "registered": {
+          "date": "2008-04-17T00:32:31.609Z",
+          "age": 16
+        },
+        "phone": "00691049",
+        "cell": "14718581",
+        "id": {
+          "name": "CPR",
+          "value": "150586-9140"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/56.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+        },
+        "nat": "DK"
+      }
+
+]
